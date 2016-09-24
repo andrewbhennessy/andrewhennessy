@@ -27,7 +27,7 @@ AMP compliant Material Design.
 3. add a server: `andrewhennessy.net`
 4. username:`ubuntu`
 5. password:`caddy`
-6. click the key and use `juj.pem` if it doesnt work make sure in terminal you do `sudo chmod juj.pem 400`
+6. click the key and use `juj.pem` if it doesnt work make sure in terminal you do `sudo chmod ~/path/to/juj.pem 400`
 7. in the root directory type in `/home/caddy/www/main-files`
 8. Connect!
 
