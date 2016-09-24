@@ -2,6 +2,8 @@
 
 My Personal Portfolio
 
+#[Visit the Roadmap for Proposed Content](https://github.com/DannyBoyBroadSword/andrewhennessy/blob/master/roadMap.md)
+
 ###Structure
 
 This website is made possible by hosting a caddy webserver in an amazon AWS ec2 instance. 
