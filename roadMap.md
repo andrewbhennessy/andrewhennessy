@@ -13,38 +13,38 @@
 2. My Role was developing a prototype for a trial and showing clients the technology before the manufactured model would be maade. 
 3. I Learned how to effectively find work and complete it in an order that was most effective to the overall goal of everyone else. 
 
-[content]()
+[content](hi)
 
-[images]()
+[images](hi)
 
 ##CoxBox
 1. I Designed this because I found the need to create something for rowers and crews that had never been built. The products currently being used were milestones behind current technology and I saw to update it. 
 2. I spent countless hours designing testing and getting the parts to manufacture and build a prototype for the CoxBox. 
 3. The skills that were required to create this were:
-  1.3D Printing
-  2.Autodesk 360 CAD/CAM
-  3.Electrical Knowledge
-  4.Rowing knowledge
-  5.Waterproofing Knowledge and Expertise
+  1. 3D Printing
+  2. Autodesk 360 CAD/CAM
+  3. Electrical Knowledge
+  4. Rowing knowledge
+  5. Waterproofing Knowledge and Expertise
 
-[content]()
+[content](hi)
 
-[images]()
+[images](hi)
 
 ##Aerial Foundry
-1. I got the position
-2. My Role was
-3. I learned
+1. I designed this project because I was fascinated by flight and automating it. I thought it was an amazing idea to bring highly sophisticated technologys to a civilian context
+2. Other than buying the plane everything else was built by me and the installation of the electronics, airspeed pitot tube, gps and compass, and flight computer.
+3. I learned you can fail miserably and the value of learning from failure is more than the completion of the project itself. 
 
-[content]()
+[content](hi)
 
-[images]()
+[images](hi)
 
 ##QuickBrush
-1. I got the position
-2. My Role was
-3. I learned
+1. I got the commission by pure happenstance when an individual was curious about my design knowledge while using a 3D printer at a local home depot. He asked me to visit his shop and let him explain what he wanted to manufacture and me having my summer in front of me and a inevtiably failing other project I decided to just go for it. 
+2. I drew on my design skills, 3D printing skills, and skills I had learned from building my airplane and knowledge of manufactuing. 
+3. I was proud of my ability to bridge a cultural gap with an urban Entrepreneur. I also felt like a fish out of water, but we were bounded together by a desire to produce a product. 
 
-[content]()
+[content](hi)
 
-[images]()
+[images](hi)
