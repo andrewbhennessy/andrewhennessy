@@ -9,8 +9,8 @@
 
 
 ##Cognosos
-1.
-2. 
+1. I got the position 
+2. My Role was 
 3.
 
 [content]()
@@ -18,27 +18,27 @@
 [images]()
 
 ##CoxBox
-1.
-2. 
-3.
+1. I got the position
+2. My Role was
+3. I learned 
 
 [content]()
 
 [images]()
 
 ##Aerial Foundry
-1.
-2. 
-3.
+1. I got the position
+2. My Role was
+3. I learned
 
 [content]()
 
 [images]()
 
 ##QuickBrush
-1.
-2. 
-3.
+1. I got the position
+2. My Role was
+3. I learned
 
 [content]()
 
